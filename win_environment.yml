@@ -1,4 +1,4 @@
-name: learn-env
+name: fs-env
 channels:
   - conda-forge
   - defaults
